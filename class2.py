@@ -11,4 +11,4 @@ class Product:
 p1=Product(100,"아이폰14",950000)
 p1.print()
 p2=Product(101,"갤럭시폴더",1500000)
-p2.print()
+p2.print()  
