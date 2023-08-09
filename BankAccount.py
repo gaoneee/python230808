@@ -25,5 +25,8 @@ account1.deposit(5000)
 account1.withdraw(3000)
 print(account1)
 #account1.balance=15000000
+
 #print(account1)
 #print(account1.__balance) ##숨김처리 확인
+
+
